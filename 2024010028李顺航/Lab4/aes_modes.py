@@ -83,4 +83,4 @@ if __name__ == '__main__':
     
     print("\n===== 第4题：CTR 模式解密 =====")
     ct4 = "770b80259ec33beb2561358a9f2dc617e46218c0a53cbeca695ae45faa8952aa0e311bde9d4e01726d3184c34451"
-    print(aes_ctr_decrypt(key2, ct4)).
+    print(aes_ctr_decrypt(key2, ct4))
